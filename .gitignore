@@ -1,0 +1,12 @@
+*.o
+*.d
+*.obs
+*.ini
+*.local
+*.vs
+Release
+Release_Build
+Debug
+Debug_Build
+__history
+__astcache
